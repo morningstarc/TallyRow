@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070371765365",
+    "firebase_url": "https://tally-row.firebaseio.com",
+    "project_id": "tally-row",
+    "storage_bucket": "tally-row.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070371765365:android:eaf1602892000f0dda4c3c",
+        "android_client_info": {
+          "package_name": "edu.uco.mcornell.tallyrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070371765365-asp1138ht652lqsjke5ps0gvnrt7nq1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAESsHFZEGW4uTHQjtTtc4LwyAvgwVCE7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070371765365-asp1138ht652lqsjke5ps0gvnrt7nq1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
